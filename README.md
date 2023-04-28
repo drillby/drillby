@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
-<h3 align="center">Hobbyist, university student (ČZU) and high school teacher (SPŠ a VOŠ Kladno).</h3>
+<h3 align="center">Hobbyist, university student ([ČZU](https://www.tf.czu.cz/cs)) and high school teacher (SPŠ a VOŠ Kladno).</h3>
 
 - 🔭 I’m currently working on [Bachelor's thesis](https://github.com/drillby/Bakalarska_prace)
 
