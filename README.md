@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
-<h3 align="center">A passionate beginning fullstack developer from Czech Republic.</h3>
+<h3 align="center">Hobbyist, university student (ČZU) and high school teacher (SPŠ a VOŠ Kladno).</h3>
 
-- 🔭 I’m currently working on [Automatization of PC](https://github.com/drillby/Automatization-of-PC)
+- 🔭 I’m currently working on [Bachelor's thesis](https://github.com/drillby/Bakalarska_prace)
 
-- 🌱 I’m currently learning **how to operate with Alexa via Amazon Alexa API**
+- 🌱 I’m currently learning **how to capture video vith Arduino**
 
 - 👨‍💻 All of my projects are available at [https://github.com/drillby/](https://github.com/drillby/)
 
