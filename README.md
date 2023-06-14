@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Bachelor's thesis](https://github.com/drillby/Bakalarska_prace)
 
-- 🌱 I’m currently learning **how to capture video vith Arduino**
+- 🌱 I’m currently learning **how to work with MQTT protocol**
 
 - 👨‍💻 All of my projects are available at [https://github.com/drillby/](https://github.com/drillby/)
 
