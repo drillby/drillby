@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 <h3 align="center">Hobbyist, university student (Faculty of Engineering at Czech University of Life Science) and high school teacher (SPŠ a VOŠ Kladno).</h3>
 
-- 🔭 I’m currently working on [Bachelor's thesis](https://github.com/drillby/Bakalarska_prace)
+- 🔭 I’m currently working on [Master's thesis](https://github.com/drillby/Diplomova_prace)
 
 - 🌱 I’m currently learning **how to work with MQTT protocol**
 
